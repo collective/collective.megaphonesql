@@ -19,5 +19,5 @@ Should work on Plone 3 and Plone 4, collective.megaphone 1.x and 2.x.
 Tested on Plone 3.3.5 with collective.megaphone 2.0b1 and
 Products.sqlpfgadapter 0.1a2.
 
-.. _Products.sqlpfgadapter: http://pypi.python.org/pypi/Products.sqlpfgadapter
+.. _Products.sqlpfgadapter: http://plone.org/products/sqlpfgadapter
 .. _collective.megaphone: http://plone.org/products/megaphone
